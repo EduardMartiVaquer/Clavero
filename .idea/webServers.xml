@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fcfe54b2-65e8-4bfd-acbb-f0f1ab9f0baa" name="clavero" url="http://u85053974.1and1-data.host">
+        <fileTransfer host="u85053974.1and1-data.host" port="22" accessType="SFTP" password="dfc7dfc3dfc6dffadfd8df9adfecdfcfdfd9df9adf98" username="u85053974">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

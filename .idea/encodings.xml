@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/public/css/style.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/public/images/web_images/first-wrap.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/errors/404.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/errors/503.blade.php" charset="windows-1252" />
+  </component>
+</project>

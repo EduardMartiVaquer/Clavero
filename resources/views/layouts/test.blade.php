@@ -1,0 +1,1 @@
+<h1>{{\Illuminate\Support\Facades\Hash::make('mipolla69')}}</h1>
